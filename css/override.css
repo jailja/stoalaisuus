@@ -64,7 +64,7 @@ hr {
 
 .site-nav a,
 .site-nav a:active{
-  color: #fff;
+  color: #fff !important;
 }
 
 .site-footer{
