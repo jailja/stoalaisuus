@@ -27,6 +27,9 @@ minima:
 
 rss: rss
 
+# blog cover
+cover: "/assets/imgs/kyykkyfilosofi2.png"
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
