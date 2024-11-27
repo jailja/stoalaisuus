@@ -76,6 +76,6 @@ hr {
 }
 
 a.site-title{
-  font-size: 26px;
-  color: #fc7a1e;  
+  font-size: 26px !important;
+  color: #fc7a1e !important;   
 }
