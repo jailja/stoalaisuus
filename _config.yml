@@ -22,7 +22,9 @@ youtube_username: "JanneJääskeläinen"
 #########################################################################################
 theme: "minima"
 
-minima: dark
+minima:
+  date_format: "%e.%m.%Y"
+
 rss: rss
 
 kramdown:
@@ -30,7 +32,6 @@ kramdown:
     disable: true
     
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
