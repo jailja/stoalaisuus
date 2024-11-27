@@ -1,38 +1,9 @@
-# Alunperin täältä: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
-
 title: "Stoalaisuus"
-author: "Janne K. Jääskeläinen"
 description: "Kirjoituksia stoalaisuudesta ja työkaluja modernin tyhjyyden täyttämiseksi." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+author: "Janne K. Jääskeläinen"
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
 
 email: "stoalaisuus@jannejaaskelainen.fi"
 twitter_username: "JaaJanne"
-github_username: "jailja"
-linkedin_username: "jannejaaskelainen"
-instagram_username: "janne_k_jaaskelainen"
-youtube_username: "JanneJääskeläinen"
-
-# blog cover
-cover: "/assets/imgs/kyykkyfilosofi2.png"
-
-theme: "minima"
-
-minima:
-  date_format: "%e.%m.%Y"
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
-plugins:
-  - jekyll-sitemap
-
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
