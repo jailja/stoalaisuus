@@ -2,6 +2,10 @@ body{
   font-family: "Yrsa", serif;
 }
 
+a, a:active{
+  color: #ef8354;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
@@ -49,6 +53,9 @@ hr {
   opacity: 0.3;
 }
 
+.site-header{
+  background-color: #2d3142;
+}
 .site-footer{
   background-color: #4f5d75;
 }
