@@ -62,13 +62,16 @@ hr {
   color: #fc7a1e; 
 }
 
+.site-nav a,
+.site-nav a:active{
+  color: #fff;
+}
 
 .site-footer{
   background-color: #4f5d75;
 }
 
 a.site-title{
-  font-size: 20px;
-  font-weight: bold;
-  color: #fc7a1e !important;  
+  font-size: 26px;
+  color: #fc7a1e;  
 }
