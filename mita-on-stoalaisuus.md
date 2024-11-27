@@ -3,6 +3,8 @@ layout: post
 title: "Mitä stoalaisuus tarkoittaa?"
 categories: Stoalaisuus
 date: 2024-11-25
+author:
+- Janne K. Jääskeläinen
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
