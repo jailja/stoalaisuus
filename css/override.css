@@ -55,7 +55,7 @@ hr {
 
 .site-header{
   background-color: #2d3142;
-  color: #fff;
+  color: #fff !important;
 }
 
 .site-header a{
