@@ -10,6 +10,7 @@ hr {
 /* Post navigation links */
 .post_navi {
   display: flex;
+  background-color: #2d3142;
 }
 
 .post_navi-label {
@@ -46,4 +47,8 @@ hr {
   transform: translateY(-50%);
   font-size: 2.5em;
   opacity: 0.3;
+}
+
+.site-footer{
+  background-color: #4f5d75;
 }
