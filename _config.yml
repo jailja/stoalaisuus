@@ -1,34 +1,23 @@
+# Alunperin täältä: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
+
 title: "Stoalaisuus"
 author: "Janne K. Jääskeläinen"
 description: "Kirjoituksia stoalaisuudesta ja työkaluja modernin tyhjyyden täyttämiseksi." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
-# Alunperin täältä: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
-
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
 email: "stoalaisuus@jannejaaskelainen.fi"
 twitter_username: "JaaJanne"
 github_username: "jailja"
 linkedin_username: "jannejaaskelainen"
-#facebook_username: username
-#flickr_username: username
 instagram_username: "janne_k_jaaskelainen"
-#pinterest_username: username
 youtube_username: "JanneJääskeläinen"
-#googleplus_username: +username
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
+# blog cover
+cover: "/assets/imgs/kyykkyfilosofi2.png"
+
 theme: "minima"
 
 minima:
   date_format: "%e.%m.%Y"
-
-rss: rss
-
-# blog cover
-cover: "/assets/imgs/kyykkyfilosofi2.png"
 
 kramdown:
   syntax_highlighter_opts:
