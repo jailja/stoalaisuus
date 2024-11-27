@@ -61,6 +61,9 @@ hr {
 .site-header a{
   color: #fc7a1e; 
 }
+.page-link{
+  color: #fff !important;
+}
 
 .site-nav a,
 .site-nav a:active{
