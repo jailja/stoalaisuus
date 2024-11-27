@@ -1,13 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "fi-FI" }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    {% seo %}
 
-{% seo %}
+    {% if jekyll.environment == 'production'-%}
+    <script defer data-domain="stoalaisuus.fi" src="https://plausible.io/js/script.js"></script>
+    {%- endif %}
+  
   </head>
 
   <body>
@@ -20,11 +24,7 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <!-- a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a -->
         </section>
       </div>
     </header>
