@@ -3,7 +3,7 @@ body{
 }
 
 a, a:active{
-  color: #f24c00;
+  color: #fc7a1e;
 }
 
 hr {
@@ -55,9 +55,11 @@ hr {
 
 .site-header{
   background-color: #2d3142;
+  color: #fff;
 }
+
 .site-header a{
-  color: #f24c00; 
+  color: #fc7a1e; 
 }
 
 
@@ -65,7 +67,8 @@ hr {
   background-color: #4f5d75;
 }
 
-.site-title{
+a.site-title{
   font-size: 20px;
   font-weight: bold;
+  color: #fc7a1e; 
 }
