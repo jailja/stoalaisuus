@@ -7,3 +7,24 @@ email: "stoalaisuus@jannejaaskelainen.fi"
 twitter_username: "JaaJanne"
 
 date_format: "%e.%m.%Y"
+
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+
+plugins:
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
