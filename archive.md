@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arkisto
+title: Kyykkyfilosofin päiväkirja
 ---
 
 {% for tag in site.tags %}
