@@ -56,6 +56,16 @@ hr {
 .site-header{
   background-color: #2d3142;
 }
+.site-header a{
+  color: #f24c00; 
+}
+
+
 .site-footer{
   background-color: #4f5d75;
+}
+
+.site-title{
+  font-size: 20px;
+  font-weight: bold;
 }
