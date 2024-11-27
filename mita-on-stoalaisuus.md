@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Mitä stoalaisuus tarkoittaa?"
 categories: Stoalaisuus
 date: 2024-11-25
