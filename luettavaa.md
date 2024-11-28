@@ -10,13 +10,14 @@ Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohe
 ## Ilmaiset
 
 ## Kirjat
-* [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance)
-* [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion)
+* [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance) ⭐⭐⭐⭐⭐
+* [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ⭐⭐⭐⭐
 
 ## Muut resurssit
-* [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/)
+* [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/) 
 
 ## Omat blogipostaukseni
+Näiden kirjoitusten hyvyttä en itse osaa arvioida, niin en ole antanut niille tähtiä. Lue, jos kiinnostaa.
 * [Suuttuminen tekee sinustakin simpanssin](https://www.jannejaaskelainen.fi/suuttuminen-tekee-sinustakin-simpanssin/)
 * [Stoalaisuuden alkupuraisu](https://www.jannejaaskelainen.fi/stoalaisuuden-alkupuraisu/)
 * [Itsevastuu — kun kannat vastuun, et koskaan kanna häpeää](https://www.jannejaaskelainen.fi/itsevastuu-kun-kannat-vastuun-et-koskaan-kanna-hapeaa/)
