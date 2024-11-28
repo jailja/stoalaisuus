@@ -15,4 +15,3 @@ Stoalaisuutta opetettiin ns. kuistilla.
 
 ## Some great heading (h2)
 
-_Löytyikö sivulta virheitä, korjattavaa tai kommentoitavaa? Laita viestiä stoalaisuus@jannejaaskelainen.fi niin korjaan virheet mahdollisimman nopeasti._
