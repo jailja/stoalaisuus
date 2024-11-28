@@ -8,9 +8,9 @@ Stoalaisuus on filosofinen elämäntapa, joka tarjoaa selkeyttä ja mielenrauhaa
 Tämä filosofia on täydellinen työkalu nykypäivän johtajille, yrittäjille ja kenelle tahansa, joka etsii yksinkertaista mutta syvällistä tapaa parantaa elämänlaatuaan. Stoalaisuus opettaa, kuinka keskittyä siihen, mitä voimme kontrolloida, ja päästää irti siitä, mitä emme voi.
 
 ## Miksi valita stoalaisuus?
-Tunne-elämän hallinta: Stoalaiset opettavat, että rauhallinen mieli syntyy ymmärryksestä, ei olosuhteista.
-Resilienssi vastoinkäymisissä: Olipa kyse taloudellisesta paineesta, ihmissuhdeongelmista tai urahaasteista, stoalaisuus auttaa säilyttämään tasapainon.
-Keskittyminen olennaiseen: Stoalaisuuden periaatteilla saat selkeyttä ja kyvyn keskittyä siihen, mikä on todella tärkeää.
+* Tunne-elämän hallinta: Stoalaiset opettavat, että rauhallinen mieli syntyy ymmärryksestä, ei olosuhteista.
+* Resilienssi vastoinkäymisissä: Olipa kyse taloudellisesta paineesta, ihmissuhdeongelmista tai urahaasteista, stoalaisuus auttaa säilyttämään tasapainon.
+* Keskittyminen olennaiseen: Stoalaisuuden periaatteilla saat selkeyttä ja kyvyn keskittyä siihen, mikä on todella tärkeää.
 
 ## Stoalaisuuden kolme kulmakiveä:
 1. Hyveellinen elämä: Toimi oikein, riippumatta ulkoisista paineista.
@@ -20,10 +20,9 @@ Keskittyminen olennaiseen: Stoalaisuuden periaatteilla saat selkeyttä ja kyvyn 
 ## Mitä voit saavuttaa?
 Stoalaisuuden avulla voit saavuttaa mielenrauhan, joka ei horju ulkoisten paineiden alla. Se ei lupaa nopeita voittoja, mutta tarjoaa ajattoman työkalupakin, jolla voit rakentaa kestävää onnea ja menestystä.
 
-Aloita matkasi stoalaisuuden parissa [tästä](https://stoalaisuus.fi/mita-on-stoalaisuus.html). 
+Aloita matkasi [tästä](https://stoalaisuus.fi/mita-on-stoalaisuus.html). 
 
-
-<h2>Uusimmat kirjoitukset</h2>
+<h2>Uusimmat blogikirjoitukset:</h2>
 <ul>
   {% for post in site.posts limit:10 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> – {{post.date | date: "%e.%m.%Y"}}</li>
