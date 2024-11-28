@@ -277,3 +277,16 @@ a {
   width: 120px;
   height: 120px;
 }
+
+@media screen and (max-width: 730px) {
+  .logos img{
+    float: none;
+    text-align: center;
+    display: block;
+    margin: 10px auto 0 auto;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+  }
+  
+}
