@@ -6,15 +6,22 @@ date: 2024-11-25
 author:
 - Janne K. Jääskeläinen
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Stoalaisuus on ennen kaikkea käytännöllinen filosofia. Siksi olennaista stoalaisuudessa on mielestäni ne filosofiset työkalut, joita arjessa ja vaikeissa paikoissa voi elämässään käyttää. Voit ottaa työkalut käyttöön heti ja sellaisenaan. 
 
-## Some great heading (h2)
+## Memento Mori – muista kuolevaisuutesi
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+## Praemeditatio malorum – negatiivisuuden visualisointi
+*Praemeditatio malorum* eli negatiivisuuden visualisointi on helppo tapa valmistautua pahoihin tilanteisiin etukäteen. Se toimii vähän samalla tavalla kuin rokotukset tai miten painajaisunet toimivat. Ajattelemalla pahinta mahdollista lopputulemaa mielesi käy läpi asioita etukäteen, ja jos sitten pahin mahdollinen toteutuu, olet jo henkisesti valmistautunut tilanteeseen. Jos mitään ei satukaan, hyvä niin!
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+**Miten se toimii käytännössä:**
+Itse käytän Praemeditatio malorum -meditaatiota esimerkiksi silloin, kun teen isoja päätöksiä tai olen tekemässä muutoksia elämääni. Käytännössä se toimii niin, että visualisoin mielessäni mitä olen tekemässä. Yleensä alitajunnasta nousee pelkoja esiin aivan luonnostaan, ja sen sijaan että yritän painaa pelot pois mielestäni, annan niiden tulla ulos. Annan niiden tulla ulos sellaisena kuin ne tulevat ja keksin vielä lisää. Mietin miltä tuntuu, jos kaikki menee perseelleen: mitä tapahtuu, kuka sanoo mitäkin ja miltä se tuntuu. Kuvittelen asiat niin visuaalisesti kuin pystyn. Kun lopetan meditoinnin, olo on lähes poikkkeuksetta parempi kuin ennen Praemeditatio malorum -meditointia. 
 
-## Another great heading (h2)
+**Esimerkki:**
+Lapseni löi päänsä pahasti alakoulussa. Pieni mies veti taaksepäin voltin jäiselle maalle ja mursi kallonsa. Verenpurkauma oli paha, ja oli lähellä ettei lapseni kuollut. Magneettikuvauksen äärellä rukoilin tietenkin parasta mahdollista lopputulemaa. Kävin kuitenkin samalla mielessäni läpi Praemeditatio malorum mukaisesti niitä vaihtoehtoja, jota voisi tapahtua. Annoin tunteiden hyökyä yli, ja kävin jo läpi sen miten saattelin lapseni hautaan. Se oli aivan hirveää – voisi jopa sanoa, että kidutusta. Mutta pahimmallakin hetkellä avattuani silmäni näin, että tilanne ei ollut niin paha kuin mihin varauduin. Praemeditatio malorum auttoi minua olemaan muiden tukena juuri silloin kun sitä eniten kaivattiin. Ja jos pahin olisi tapahtunut, olisin ollut paremmin valmistautunut kuin jos olisin vain odottanut lamaantuneena tapahtuvaa. 
 
 
-[back](./)
+## Sisäinen linnoitus (internal locus of control)
+
+## Armor Fati – rakkaus kohtaloa kohtaan
+
+## Päiväkirja
