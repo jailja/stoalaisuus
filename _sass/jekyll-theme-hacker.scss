@@ -151,7 +151,14 @@ dt {
 }
 
 ul li {
-  
+  list-style-type: none; /* Piilota oletusmerkit */
+}
+
+ul li::marker {
+  content: "❧"; /* Unicode-merkki listan symboliksi */
+  color: #ff5e23; /* Halutessasi muuta väriä */
+  font-size: 1.2em; /* Muuta kokoa tarvittaessa */
+  margin-right: 0.5em; /* Lisää väli merkistä tekstiin */
 }
 
 blockquote {
