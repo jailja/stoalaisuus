@@ -2,7 +2,7 @@
 layout: page
 title: Kyykkyfilosofin päiväkirja
 ---
-Tässä listattuna kaikki blogin kirjoitukset. 
+Tällä sivulla on listattuna kaikki blogin kirjoitukset. 
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
