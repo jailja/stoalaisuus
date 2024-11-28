@@ -8,8 +8,6 @@ author:
 ---
 Stoalaisuus on ennen kaikkea käytännöllinen filosofia. Siksi olennaista stoalaisuudessa on mielestäni ne filosofiset työkalut, joita arjessa ja vaikeissa paikoissa voi elämässään käyttää. Voit ottaa työkalut käyttöön heti ja sellaisenaan. 
 
-## Memento Mori – muista kuolevaisuutesi
-
 ## Praemeditatio malorum – negatiivisuuden visualisointi
 *Praemeditatio malorum* eli negatiivisuuden visualisointi on helppo tapa valmistautua pahoihin tilanteisiin etukäteen. Se toimii vähän samalla tavalla kuin rokotukset tai miten painajaisunet toimivat. Ajattelemalla pahinta mahdollista lopputulemaa mielesi käy läpi asioita etukäteen, ja jos sitten pahin mahdollinen toteutuu, olet jo henkisesti valmistautunut tilanteeseen. Jos mitään ei satukaan, hyvä niin!
 
@@ -19,9 +17,14 @@ Itse käytän Praemeditatio malorum -meditaatiota esimerkiksi silloin, kun teen 
 **Esimerkki:**
 Lapseni löi päänsä pahasti alakoulussa. Pieni mies veti taaksepäin voltin jäiselle maalle ja mursi kallonsa. Verenpurkauma oli paha, ja oli lähellä ettei lapseni kuollut. Magneettikuvauksen äärellä rukoilin tietenkin parasta mahdollista lopputulemaa. Kävin kuitenkin samalla mielessäni läpi Praemeditatio malorum mukaisesti niitä vaihtoehtoja, jota voisi tapahtua. Annoin tunteiden hyökyä yli, ja kävin jo läpi sen miten saattelin lapseni hautaan. Se oli aivan hirveää – voisi jopa sanoa, että kidutusta. Mutta pahimmallakin hetkellä avattuani silmäni näin, että tilanne ei ollut niin paha kuin mihin varauduin. Praemeditatio malorum auttoi minua olemaan muiden tukena juuri silloin kun sitä eniten kaivattiin. Ja jos pahin olisi tapahtunut, olisin ollut paremmin valmistautunut kuin jos olisin vain odottanut lamaantuneena tapahtuvaa. 
 
+## Memento Mori – muista kuolevaisuutesi
+(Tulossa)
 
 ## Sisäinen linnoitus (internal locus of control)
+(Tulossa)
 
 ## Amor Fati – rakkaus kohtaloa kohtaan
+(Tulossa)
 
 ## Päiväkirja
+(Tulossa)
