@@ -79,7 +79,7 @@ header h1 {
 
 header h1:before {
   content: "❧ ";
-  font-size: 24px;
+  font-size: 30px;
 }
 
 header h2 {
@@ -151,7 +151,7 @@ dt {
 }
 
 ul li {
-  list-style-image:url('../images/bullet.png');
+  
 }
 
 blockquote {
@@ -279,7 +279,7 @@ a {
 }
 
 @media screen and (max-width: 730px) {
-  .container{
+  header{
     text-align: center;
   }
   .logos img{
