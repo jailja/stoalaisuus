@@ -279,11 +279,14 @@ a {
 }
 
 @media screen and (max-width: 730px) {
+  .container{
+    text-align: center;
+  }
   .logos img{
     float: none;
     text-align: center;
     display: block;
-    margin: 10px auto 0 auto;
+    margin: 10px auto 20px auto;
     border-radius: 50%;
     width: 120px;
     height: 120px;
