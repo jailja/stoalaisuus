@@ -18,3 +18,5 @@ Stoalaisuus tarjoaa konkreettisia työkaluja hallita stressiä, tehdä parempia 
 * **Parantamaan resilienssiä.** Stoalainen ajattelu rohkaisee kohtaamaan vaikeudet rohkeasti ja näkemään ne oppimisen mahdollisuuksina.
 
 Nykypäivän nopearytmisessä ja usein kaoottisessa maailmassa stoalaisuus on ajankohtaisempi kuin koskaan. Sen käytännöllinen lähestymistapa auttaa saavuttamaan selkeyttä ja kestävyyttä niin henkilökohtaisessa elämässä kuin työssä.
+
+Lue lisää käytännön työkaluista [täältä](./tyokalupakki.html). 
