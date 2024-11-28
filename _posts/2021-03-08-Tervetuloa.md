@@ -1,12 +1,7 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Tervetuloa!
 
-## Some great heading (h2)
+Olen aikaisemmin kirjoittanut stoalaisuudesta [yrityssivustoni](https://www.jannejaaskelainen.fi) puolelle, mutta jotenkin koen, että nyt on tullut aika siirtää stoalaisuus omalle sivustolleen. Erityisen olennaista tämä on juuri nyt, kun maailma tuntuu olevan jonkinlaisessa kaaoksessa. Pitkät hyvät ja helpot vuodet ovat murentuneet masentavaksi arjeksi monen ihmisen kohdalla COVID-pandemian ja monen muun kriisin myötä. 
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-## Another great heading (h2)
-
+Tuntuu, että nyt jos koskaan muidenkin kannattaisi tutustua stoalaisuuteen ja sen hyötyihin. Emme tiedä, mitä tulevaisuus tuo tullessaan. Erityisesti epävarmuuden aikoina on tärkeää, että ihmisillä on keinoja hallita omaa oloaan. Stoalaisuus on ainoa tuntemani filosofia, joka oikeasti auttaa tähän. 
 
 [Takaisin](./)
