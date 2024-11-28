@@ -82,6 +82,14 @@ header h1:before {
   font-size: 30px;
 }
 
+header h1:after {
+  content: "❧ ";
+  font-size: 30px;
+  transform: scaleX(-1); 
+  display: inline-block; 
+}
+
+
 header h2 {
   font-size: 18px;
   font-weight: 300;
