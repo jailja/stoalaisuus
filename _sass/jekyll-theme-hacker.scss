@@ -164,12 +164,13 @@ ul{
   list-style: none;
 }
 ul li {
-  padding-left: 10px; 
+  padding-left: 5px; 
 }
 ul li:before{
   content: "❧";
   color: #ff5e23;
-  margin-right: 3px;
+  padding-right: 3px;
+  padding-left: 3px;
 }
 
 blockquote {
