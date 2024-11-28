@@ -15,7 +15,7 @@ Stoalaisuuden juuret ulottuvat 300-luvulle eKr., jolloin Zenon Kitionilainen per
 Stoalaisuus tarjoaa konkreettisia työkaluja hallita stressiä, tehdä parempia päätöksiä ja kohdata elämän haasteet tyyneydellä. Se auttaa:
 
 * **Selkeyttämään prioriteetteja.** Stoalaisuus korostaa, että meidän on erotettava, mikä on omassa hallinnassamme (ajatukset, tunteet, teot) ja mikä ei (toisten mielipiteet, ulkoiset tapahtumat).
-* **Säilyttämään mielenrauha.** Filosofia opettaa hyväksymään väistämättömän ja keskittymään siihen, miten reagoimme.
+* **Säilyttämään mielenrauhan.** Filosofia opettaa hyväksymään väistämättömän ja keskittymään siihen, miten reagoimme.
 * **Parantamaan resilienssiä.** Stoalainen ajattelu rohkaisee kohtaamaan vaikeudet rohkeasti ja näkemään ne oppimisen mahdollisuuksina.
 
 Nykypäivän nopearytmisessä ja usein kaoottisessa maailmassa stoalaisuus on ajankohtaisempi kuin koskaan. Sen käytännöllinen lähestymistapa auttaa saavuttamaan selkeyttä ja kestävyyttä niin henkilökohtaisessa elämässä kuin työssä.
