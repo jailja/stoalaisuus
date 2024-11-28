@@ -160,17 +160,17 @@ dt {
 
 ul{
   padding-left: 0; 
-  margin-left: 5px;
+  margin-left: 0;
   list-style: none;
 }
 ul li {
-  padding-left: 5px; 
+  padding-left: 3px; 
 }
 ul li:before{
   content: "❧";
   color: #ff5e23;
-  padding-right: 3px;
-  padding-left: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
 }
 
 blockquote {
