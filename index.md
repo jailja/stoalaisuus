@@ -2,13 +2,25 @@
 layout: default
 ---
 
-# Otsikko
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Stoalaisuus – käytännöllinen elämänfilosofia arjen haasteisiin
+Stoalaisuus on filosofinen elämäntapa, joka tarjoaa selkeyttä ja mielenrauhaa hektisen maailman keskellä. Se ei ole vain muinaista viisautta, vaan ajattomia periaatteita, jotka auttavat hallitsemaan tunteita, käsittelemään vastoinkäymisiä ja löytämään tasapainon elämän myrskyissä. Stoalaisuuden ytimessä on ajatus siitä, että emme voi aina hallita tapahtumia, mutta voimme hallita, miten niihin reagoimme.
 
-## Toinen otsikko
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tämä filosofia on täydellinen työkalu nykypäivän johtajille, yrittäjille ja kenelle tahansa, joka etsii yksinkertaista mutta syvällistä tapaa parantaa elämänlaatuaan. Stoalaisuus opettaa, kuinka keskittyä siihen, mitä voimme kontrolloida, ja päästää irti siitä, mitä emme voi.
 
-[Link to another page](./another-page.html).
+## Miksi valita stoalaisuus?
+Tunne-elämän hallinta: Stoalaiset opettavat, että rauhallinen mieli syntyy ymmärryksestä, ei olosuhteista.
+Resilienssi vastoinkäymisissä: Olipa kyse taloudellisesta paineesta, ihmissuhdeongelmista tai urahaasteista, stoalaisuus auttaa säilyttämään tasapainon.
+Keskittyminen olennaiseen: Stoalaisuuden periaatteilla saat selkeyttä ja kyvyn keskittyä siihen, mikä on todella tärkeää.
+
+## Stoalaisuuden kolme kulmakiveä:
+1. Hyveellinen elämä: Toimi oikein, riippumatta ulkoisista paineista.
+2. Tapahtumien hyväksyminen: Hyväksy, mitä et voi muuttaa, ja keskity omaan toimintaasi.
+3. Jatkuva itsekehitys: Opettele ottamaan vastuu itsestäsi ja kehitä henkistä vahvuuttasi.
+
+## Mitä voit saavuttaa?
+Stoalaisuuden avulla voit saavuttaa mielenrauhan, joka ei horju ulkoisten paineiden alla. Se ei lupaa nopeita voittoja, mutta tarjoaa ajattoman työkalupakin, jolla voit rakentaa kestävää onnea ja menestystä.
+
+Aloita matkasi stoalaisuuden parissa [tästä](https://stoalaisuus.fi/mita-on-stoalaisuus.html). 
 
 
 <h2>Uusimmat kirjoitukset</h2>
