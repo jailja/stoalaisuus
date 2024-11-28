@@ -16,9 +16,9 @@ Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohe
 * Epictetus: [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ⭐⭐⭐⭐
 * [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance) ⭐⭐⭐⭐⭐
 
-
 ## Muut resurssit
-* [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/) 
+* [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/). Redditissä on aktiivinen stoalaisten yhteisö ja paljon hyvää luettavaa. Suurin osa kirjoituksista on tyyliin "onko [asia x] stoalaista", mutta joukossa on todella paljon mielenkiintoistakin luettavaa. 
+* [Daily Stoic](https://dailystoic.com/) on Ryan Holidayn pyörittämä sivusto stoalaisuudesta. Holiday on tehnyt hyvää työtä stoalaisuuden sanoman levittämisessä, mutta kokonaisuutena Holidayn stoalaisuuden tulkinnat ovat hyvin ailahtelevia ja ansaintamielessä tehtyjä. Kirjat ovat hyvin kirjoitettuja ja niistä saa penniviisauksia arkeen niin halutessaan. 
 
 ## Omat blogipostaukseni aiheesta
 Näiden kirjoitusten hyvyttä en itse osaa arvioida, niin en ole antanut niille tähtiä. Lue, jos kiinnostaa.

@@ -22,6 +22,6 @@ Lapseni löi päänsä pahasti alakoulussa. Pieni mies veti taaksepäin voltin j
 
 ## Sisäinen linnoitus (internal locus of control)
 
-## Armor Fati – rakkaus kohtaloa kohtaan
+## Amor Fati – rakkaus kohtaloa kohtaan
 
 ## Päiväkirja
