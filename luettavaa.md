@@ -11,13 +11,11 @@ Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohe
 * [Tao of Seneca: Volume 1](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf)
 * [Tao of Seneca: Volume 2](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol2.pdf)
 * [Tao of Seneca: Volume 3](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol3.pdf)
-* [xxx](xxx)
-* [xxx](xxx)
-
 
 ## Kirjat
+* Epictetus: [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ⭐⭐⭐⭐
 * [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance) ⭐⭐⭐⭐⭐
-* [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ⭐⭐⭐⭐
+
 
 ## Muut resurssit
 * [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/) 
