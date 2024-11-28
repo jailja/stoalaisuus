@@ -150,15 +150,21 @@ dt {
   font-weight: bold;
 }
 
+ul{
+  padding-left: 0; 
+  margin-left: 0;
+  list-style: none;
+}
 ul li {
-  list-style-type: none; /* Piilota oletusmerkit */
+  display: flex;
+  align-items: flex-start;
 }
 
 ul li::marker {
-  content: "❧"; /* Unicode-merkki listan symboliksi */
-  color: #ff5e23; /* Halutessasi muuta väriä */
-  font-size: 1.2em; /* Muuta kokoa tarvittaessa */
-  margin-right: 0.5em; /* Lisää väli merkistä tekstiin */
+  content: "❧ ";
+  color: #ff5e23;
+  font-size: 1.4em; 
+  margin-right: 0.5em; 
 }
 
 blockquote {
