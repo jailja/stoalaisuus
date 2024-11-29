@@ -25,7 +25,7 @@ Näissä tilanteissa voit reagoida kahdella tavalla:
 
 Kun valitset sisäisesti ohjautuvan asenteen, et anna muiden ihmisten tai olosuhteiden määrittää, miltä sinusta tuntuu. Sinä päätät itse, miten etenet.
 
-## Miten harjoitella Sisäistä linnaa?
+## Miten harjoitella sisäistä linnaa?
 
 * Tunnista ajatuksesi: Kun kohtaat vaikean tilanteen, kysy itseltäsi: "Miten ajattelen tästä? Annanko ulkoisten asioiden hallita tunteitani?"
 * Valitse aktiivisesti: Sen sijaan, että reagoisit automaattisesti, pysähdy ja päätä, miten haluat suhtautua.
