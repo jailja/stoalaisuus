@@ -1,19 +1,40 @@
 ---
 layout: page
-title: "Praemeditatio malorum – negatiivisuuden visualisointi"
+title: "Sisäinen linna – onnellisuus on vain omissa käsissäsi"
 categories: Stoalaisuus
 date: 2024-11-29
 author:
 - Janne K. Jääskeläinen
 ---
-*Praemeditatio malorum* eli negatiivisuuden visualisointi on helppo tapa valmistautua pahoihin tilanteisiin etukäteen. Se toimii vähän samalla tavalla kuin rokotukset tai miten painajaisunet toimivat. Ajattelemalla pahinta mahdollista lopputulemaa mielesi käy läpi asioita etukäteen, ja jos sitten pahin mahdollinen toteutuu, olet jo henkisesti valmistautunut tilanteeseen. Jos mitään ei satukaan, hyvä niin!
+Sisäinen linna eli _internal locus of control_ on ajatus siitä, että elämäsi suunta ja onnellisuus riippuvat omista valinnoistasi, eivät ulkoisista olosuhteista. Se on periaate, joka muistuttaa sinua siitä, että vaikka et voi hallita kaikkea, voit aina hallita asennettasi ja reaktioitasi.
 
-**Miten se toimii käytännössä:**
+Tämä ajattelutapa antaa voimaa: se auttaa sinua ymmärtämään, että olet oman elämäsi rakentaja. Ulkoiset tapahtumat voivat ravistella sinua, mutta niillä ei ole valtaa tuhota sisäistä maailmaasi, jos et anna niille sitä valtaa.
 
-Itse käytän Praemeditatio malorum -meditaatiota esimerkiksi silloin, kun teen isoja päätöksiä tai olen tekemässä muutoksia elämääni. Käytännössä se toimii niin, että visualisoin mielessäni mitä olen tekemässä. Yleensä alitajunnasta nousee pelkoja esiin aivan luonnostaan, ja sen sijaan että yritän painaa pelot pois mielestäni, annan niiden tulla ulos. Annan niiden tulla ulos sellaisena kuin ne tulevat ja keksin vielä lisää. Mietin miltä tuntuu, jos kaikki menee perseelleen: mitä tapahtuu, kuka sanoo mitäkin ja miltä se tuntuu. Kuvittelen asiat niin visuaalisesti kuin pystyn. Kun lopetan meditoinnin, olo on lähes poikkkeuksetta parempi kuin ennen Praemeditatio malorum -meditointia. 
+## Miten sisäinen linna toimii?
+Ulkoiset tapahtumat voivat olla vaikeita tai jopa epäreiluja:
+* Pomosi käyttäytyy huonosti.
+* Jäät jumiin ruuhkassa.
+* Suunnitelmasi menevät pieleen.
 
-**Esimerkki:**
+Näissä tilanteissa voit reagoida kahdella tavalla:
+1. Ulkoisesti ohjautuva asenne: "Kaikki on muiden syytä. Olen tilanteen uhri."
+2. Sisäisesti ohjautuva asenne: "Tämä ei ole minun hallinnassani, mutta voin päättää, miten reagoin."
 
-Lapseni löi päänsä pahasti alakoulussa. Pieni mies veti taaksepäin voltin jäiselle maalle ja mursi kallonsa. Verenpurkauma oli paha, ja oli lähellä ettei lapseni kuollut. Magneettikuvauksen äärellä rukoilin tietenkin parasta mahdollista lopputulemaa. Kävin kuitenkin samalla mielessäni läpi Praemeditatio malorum mukaisesti niitä vaihtoehtoja, jota voisi tapahtua. Annoin tunteiden hyökyä yli, ja kävin jo läpi sen miten saattelin lapseni hautaan. Se oli aivan hirveää – voisi jopa sanoa, että kidutusta. Mutta pahimmallakin hetkellä avattuani silmäni näin, että tilanne ei ollut niin paha kuin mihin varauduin. Praemeditatio malorum auttoi minua olemaan muiden tukena juuri silloin kun sitä eniten kaivattiin. Ja jos pahin olisi tapahtunut, olisin ollut paremmin valmistautunut kuin jos olisin vain odottanut lamaantuneena tapahtuvaa. 
+Kun valitset sisäisesti ohjautuvan asenteen, et anna muiden ihmisten tai olosuhteiden määrittää, miltä sinusta tuntuu. Sinä päätät itse, miten etenet.
+
+## Miten harjoitella Sisäistä linnaa?
+* Tunnista ajatuksesi: Kun kohtaat vaikean tilanteen, kysy itseltäsi: "Miten ajattelen tästä? Annanko ulkoisten asioiden hallita tunteitani?"
+* Valitse aktiivisesti: Sen sijaan, että reagoisit automaattisesti, pysähdy ja päätä, miten haluat suhtautua.
+* Keskity siihen, mitä voit tehdä: Löydä asioita, joihin voit vaikuttaa. Jätä ulkoiset ongelmat niiden omaan paikkaansa.
+
+## Esimerkki:
+Olet urheilukisassa ja häviät. Ulkoisesti ohjautuva ihminen sanoisi: "Tuomari oli puolueellinen, ja sää suosi vastustajaa." Sisäisesti ohjautuva ihminen taas miettisi: "En voi muuttaa lopputulosta, mutta voin oppia tästä kokemuksesta. Mitä voisin tehdä paremmin seuraavalla kerralla?"
+
+## Miksi sisäinen linna on tärkeä?
+* Se antaa voimaa: Ymmärrät, että olet vastuussa omasta hyvinvoinnistasi.
+* Se vähentää stressiä: Et jää jumiin murehtimaan asioita, joita et voi hallita.
+* Se tuo selkeyttä: Huomaat, että onnellisuutesi ei riipu muista, vaan omista valinnoistasi.
+
+Sisäinen linna ei tarkoita sitä, että sulkisit silmäsi todellisuudelta. Se tarkoittaa, että opit suojelemaan omaa mieltäsi ulkoisilta myrskyiltä. Se muistuttaa, että todellinen vapaus syntyy siitä, kun et anna ulkoisten olosuhteiden hallita sisintäsi. Sinä olet oman elämäsi linnan valtias.
 
 [Takaisin](./tyokalupakki.html)
