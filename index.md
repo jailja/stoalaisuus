@@ -7,6 +7,8 @@ Stoalaisuus on filosofinen elämäntapa, joka tarjoaa selkeyttä ja mielenrauhaa
 
 <img src="/assets/images/stoalainen-vaikutusten-keha.png" alt="Stoalainen vaikutusten kehä" width="500" style="width:500px;" class="centered">{: class="centered"}
 
+![Stoalainen vaikutusten kehä](/assets/images/stoalainen-vaikutusten-keha.png)
+
 Tämä filosofia on täydellinen työkalu nykypäivän johtajille, yrittäjille ja kenelle tahansa, joka etsii yksinkertaista mutta syvällistä tapaa parantaa elämänlaatuaan. Stoalaisuus opettaa, kuinka keskittyä siihen, mitä voimme kontrolloida, ja päästää irti siitä, mitä emme voi.
 
 ## Miksi valita stoalaisuus?
