@@ -6,10 +6,9 @@ date: 2024-11-29
 author:
 - Janne K. Jääskeläinen
 ---
-
 *Memento Mori* eli "muista kuolevaisuutesi" on stoalainen muistutus elämän rajallisuudesta. Se ei ole synkkä ajatus, vaan kehotus arvostaa hetkeä ja elää täydesti, tietoisena siitä, että jokainen päivä voi olla viimeinen. Memento Mori toimii eräänlaisena kompassina, joka ohjaa meitä kohti merkityksellisiä valintoja ja auttaa jättämään turhan murehtimisen taakse.
 
-**Miten se toimii käytännössä:**
+## Miten Memento Mori toimii käytännössä
 
 Itse käytän Memento Mori -periaatetta päivittäisenä muistutuksena. Se on erityisen hyödyllinen silloin, kun tunnen olevani hukassa tai haaskaan aikaa turhanpäiväisiin huoliin. Otan hetken hengittääkseni syvään ja kysyn itseltäni: "Jos tämä olisi viimeinen päiväni, mitä tekisin toisin?" Ajatus ei pelota – se vapauttaa. Se auttaa näkemään, mikä on tärkeää ja mikä ei.
 

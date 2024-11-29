@@ -10,14 +10,14 @@ Dikotomian periaate on yksi stoalaisuuden peruskivistä. Se auttaa sinua erottam
 
 Ajatus on selkeä: älä tuhlaa energiaasi siihen, mihin et voi vaikuttaa. Sen sijaan keskity niihin asioihin, joita voit hallita, kuten omiin ajatuksiisi, asenteeseesi ja tekoihisi.
 
-**Mitä voit hallita – ja mitä et?** 
+## Mitä voit hallita – ja mitä et?
 Asioita, joihin voit vaikuttaa:
 * Omat valintasi ja päätöksesi.
 * Reaktiosi tapahtumiin.
 * Se, miten kohtelet muita.
 * Miten suhtaudut vaikeuksiin.
 
-**Asioita, joihin et voi vaikuttaa:**
+## Asioita, joihin et voi vaikuttaa:
 * Toisten ihmisten ajatukset ja mielipiteet.
 * Sää, politiikka tai menneisyyden tapahtumat.
 * Tulevaisuuden täydellinen ennustaminen.
@@ -25,15 +25,15 @@ Asioita, joihin voit vaikuttaa:
 
 Kun hyväksyt, ettei kaikki ole hallinnassasi, tunnet olosi kevyemmäksi. Voit jättää turhan murehtimisen taaksesi ja keskittyä siihen, mikä oikeasti merkitsee.
 
-**Miten Dikotomian periaate toimii käytännössä?**
+## Miten Dikotomian periaate toimii käytännössä?
 Pysähdy ja kysy: "Onko tämä minun hallinnassani?" Jos vastaus on ei, päästä asiasta irti.
 Tee parhaasi: Keskity siihen, mitä voit tehdä, älä siihen, miten lopputulos saattaa mennä.
 Hyväksy loput: Kun olet tehnyt osasi, anna muiden asioiden mennä omalla painollaan.
 
-**Esimerkki:**
+## Esimerkki
 Kuvittele, että sinulla on työhaastattelu. Voit hallita sitä, miten valmistaudut, miten puet päälle ja miten vastaat kysymyksiin. Mutta et voi hallita, mitä haastattelija ajattelee, mitä muita hakijoita on mukana tai kuka lopulta valitaan. Jos murehdit näitä asioita, et vain lisää stressiäsi – et myöskään paranna mahdollisuuksiasi. Keskity siihen, mitä voit tehdä, ja hyväksy loput.
 
-**Miksi Dikotomian periaate on tärkeä?**
+## Miksi Dikotomian periaate on tärkeä?
 * Se säästää energiaasi. Et kuluta voimia turhaan murehtimiseen.
 * Se tuo selkeyttä. Kun keskityt omaan osuuteesi, tunnet olosi hallitummaksi.
 * Se auttaa päästämään irti. Hyväksymällä, mitä et voi muuttaa, vältät turhaa stressiä.
