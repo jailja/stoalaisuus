@@ -14,7 +14,7 @@ Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohe
 
 ## Kirjat
 * Epictetus: [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ⭐⭐⭐⭐⭐
-* Seneca: [Letters from a Stoic](https://www.goodreads.com/book/show/12748281-letters-from-a-stoic) ⭐⭐⭐⭐⭐
+* Seneca: [Letters from a Stoic](https://www.goodreads.com/book/show/12748281-letters-from-a-stoic) ⭐⭐⭐⭐
 * Marcus Aurelius: [Meditations](https://www.goodreads.com/book/show/30659.Meditations) ⭐⭐⭐⭐
 * Massimo Pigliucci: [How to Be a Stoic](https://www.goodreads.com/book/show/31423245-how-to-be-a-stoic) ⭐⭐⭐⭐⭐
 * Conrad Miller: [Stoicism](https://www.goodreads.com/book/show/44886684-stoicism) ⭐⭐⭐⭐
@@ -33,7 +33,7 @@ Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohe
 * Viktor E. Frankl: [Man's Search for Meaning](https://www.goodreads.com/book/show/19306508-man-s-search-for-meaning) ⭐⭐⭐⭐
 * [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance) ⭐⭐⭐⭐
 
-Lisää luettavaa [täältä](https://www.reddit.com/r/Stoicism/wiki/library/)
+Lisää luettavaa [täältä](https://www.reddit.com/r/Stoicism/wiki/library/).
 
 ## Muut resurssit
 * [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/). Redditissä on aktiivinen stoalaisten yhteisö ja paljon hyvää luettavaa. Suurin osa kirjoituksista on tyyliin "onko [asia x] stoalaista", mutta joukossa on todella paljon mielenkiintoistakin luettavaa. Erityisesti kannattaa tutustua [aloittelijan oppaaseen](https://www.reddit.com/r/Stoicism/comments/1gxgv4f/read_before_posting_rstoicism_beginners_guide/). 
