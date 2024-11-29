@@ -10,6 +10,8 @@ Dikotomian periaate on yksi stoalaisuuden peruskivistä. Se auttaa sinua erottam
 
 Ajatus on selkeä: älä tuhlaa energiaasi siihen, mihin et voi vaikuttaa. Sen sijaan keskity niihin asioihin, joita voit hallita, kuten omiin ajatuksiisi, asenteeseesi ja tekoihisi.
 
+![Stoalainen vaikutusten kehä](/assets/images/stoalainen-vaikutusten-keha.png){:style="display:block; margin-left:auto; margin-right:auto; width:500px;"}
+
 ## Mitä voit hallita – ja mitä et?
 Asioita, joihin voit vaikuttaa:
 * Omat valintasi ja päätöksesi.
