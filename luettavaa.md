@@ -27,7 +27,7 @@ Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohe
 * Ryan Holiday: [Lives of the Stoics](https://www.goodreads.com/book/show/50484473-lives-of-the-stoics) ⭐⭐⭐
 * Ryan Holiday: [The Daily Stoic](https://www.goodreads.com/book/show/32327872-the-daily-stoic) ⭐⭐⭐⭐
 * Viktor E. Frankl: [Man's Search for Meaning](https://www.goodreads.com/book/show/19306508-man-s-search-for-meaning) ⭐⭐⭐⭐
-* [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance) ⭐⭐⭐⭐
+* Alfred Lansing: [Endurance: Shackleton's Incredible Voyage](https://www.goodreads.com/book/show/34443818-endurance) ⭐⭐⭐⭐
 
 Lisää luettavaa [täältä](https://www.reddit.com/r/Stoicism/wiki/library/).
 
