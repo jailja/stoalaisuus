@@ -33,7 +33,8 @@ Suosittelen aloittamaan lukemisen näistä. Mielestäni parhain alkuperäisistä
 Lisää luettavaa [täältä](https://www.reddit.com/r/Stoicism/wiki/library/).
 
 ## Muut resurssit
+* [Wikipedia](https://fi.wikipedia.org/wiki/Stoalaisuus).
 * [Reddit/r/Stoicism/](https://www.reddit.com/r/Stoicism/). Redditissä on aktiivinen stoalaisten yhteisö ja paljon hyvää luettavaa. Suurin osa kirjoituksista on tyyliin "onko [asia x] stoalaista", mutta joukossa on todella paljon mielenkiintoistakin luettavaa. Erityisesti kannattaa tutustua [aloittelijan oppaaseen](https://www.reddit.com/r/Stoicism/comments/1gxgv4f/read_before_posting_rstoicism_beginners_guide/). 
-* Filosofia.fi: [Stoalaisuus](https://filosofia.fi/fi/ensyklopedia/stoalaisuus)
+* Filosofia.fi: [Stoalaisuus](https://filosofia.fi/fi/ensyklopedia/stoalaisuus).
 * Tim Ferrris on tehnyt hyvän ja ilmaisen tiivistelmän Senecan kirjoituksista: [Tao of Seneca: Volume 1](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf), [Tao of Seneca: Volume 2](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol2.pdf) ja [Tao of Seneca: Volume 3](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol3.pdf).
 * [Daily Stoic](https://dailystoic.com/) on Ryan Holidayn pyörittämä sivusto stoalaisuudesta. Holiday on tehnyt hyvää työtä stoalaisuuden sanoman levittämisessä, mutta kokonaisuutena Holidayn stoalaisuuden tulkinnat ovat hyvin ailahtelevia ja ansaintamielessä tehtyjä. Kirjat ovat hyvin kirjoitettuja ja niistä saa penniviisauksia arkeen niin halutessaan. 
