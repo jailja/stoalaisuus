@@ -9,9 +9,9 @@ author:
 Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohessa on suosittelemiani resursseja, joiden avulla voit tutustua lisää stoalaisuuteen.
 
 ## Kirjat
-* Epictetus: [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion)
+* Epictetus: [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ([ilmainen](http://classics.mit.edu/Epictetus/epicench.html))
 * Seneca: [Letters from a Stoic](https://www.goodreads.com/book/show/12748281-letters-from-a-stoic)
-* Marcus Aurelius: [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
+* Marcus Aurelius: [Meditations](https://www.goodreads.com/book/show/30659.Meditations) ([ilmainen](https://lexundria.com/m_aur_med/0/lg))
 * Massimo Pigliucci: [How to Be a Stoic](https://www.goodreads.com/book/show/31423245-how-to-be-a-stoic)
 * Conrad Miller: [Stoicism](https://www.goodreads.com/book/show/44886684-stoicism)
 * Joseph Finley: [Stoicism:The Complete Beginner’s Guide to Stoicism](https://www.goodreads.com/book/show/27270352-stoicism)
