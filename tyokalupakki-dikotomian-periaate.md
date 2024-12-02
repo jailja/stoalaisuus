@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dikotomian periaate – Keskity siihen, mihin voit vaikuttaa"
+title: "Dikotomian periaate – eli keskity siihen, mihin voit vaikuttaa"
 categories: Stoalaisuus
 date: 2024-11-29
 author:
