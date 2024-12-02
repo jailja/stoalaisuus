@@ -4,12 +4,8 @@ author: "Janne K. Jääskeläinen"
 show_downloads: false
 theme: jekyll-theme-hacker
 email: "stoalaisuus@jannejaaskelainen.fi"
-twitter_username: "JaaJanne"
 
 date_format: "%e.%m.%Y"
-
-author:
-  twitter: JaaJanne
 
 kramdown:
   syntax_highlighter_opts:
