@@ -1,0 +1,1 @@
+Laitoin sivustolle chatbotin. Käytin sen kouluttamiseen stoalaisia tekstejä. Katsotaan, miten hyvin se toimii ja käyttääkö sitä kukaan. 
