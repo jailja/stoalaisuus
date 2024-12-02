@@ -5,7 +5,7 @@ layout: default
 # Stoalaisuus – käytännöllinen elämänfilosofia
 Stoalaisuus on filosofinen elämäntapa, joka tarjoaa selkeyttä ja mielenrauhaa hektisen maailman keskellä. Se ei ole vain muinaista viisautta, vaan ajattomia periaatteita, jotka auttavat hallitsemaan tunteita, käsittelemään vastoinkäymisiä ja löytämään tasapainon elämän myrskyissä. Stoalaisuuden ytimessä on ajatus siitä, että emme voi aina hallita tapahtumia, mutta voimme hallita, miten niihin reagoimme.
 
-Tämä filosofia on täydellinen työkalu nykypäivän johtajille, yrittäjille ja kenelle tahansa, joka etsii yksinkertaista mutta syvällistä tapaa parantaa elämänlaatuaan. Stoalaisuus opettaa, kuinka keskittyä siihen, mitä voimme kontrolloida, ja päästää irti siitä, mitä emme voi.
+Tämä filosofia on täydellinen työkalu kenelle tahansa, joka etsii yksinkertaista mutta syvällistä tapaa parantaa elämänlaatuaan. Stoalaisuus opettaa, kuinka keskittyä siihen, mitä voimme kontrolloida, ja päästää irti siitä, mitä emme voi.
 
 ![Stoalainen vaikutusten kehä](/assets/images/stoalainen-vaikutusten-keha.png){:style="display:block; margin-left:auto; margin-right:auto; width:500px;"}
 
