@@ -6,7 +6,7 @@ date: 2024-11-25
 author:
 - Janne K. Jääskeläinen
 ---
-Stoalaisuudesta on kirjoitettu paljon mutta alkuperäisiä teoksia on säiynyt jälkipolville vähän. Ohessa on suosittelemiani resursseja, joiden avulla voit tutustua lisää stoalaisuuteen.
+Stoalaisuudesta on kirjoitettu paljon mutta alkuperäisiä teoksia on säilynyt jälkipolville vähän. Ohessa on suosittelemiani resursseja, joiden avulla voit tutustua lisää stoalaisuuteen.
 
 ## Kirjat
 Suosittelen aloittamaan lukemisen näistä. Mielestäni parhain alkuperäisistä teoksista on Epictetuksen "käsikirja" eli _Enchiridion_. Marcus Aureliuksen _Mediations_ voi olla aloittelijalle hieman tylsä ja raskassoutuinen. 
