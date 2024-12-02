@@ -8,6 +8,8 @@ twitter_username: "JaaJanne"
 
 date_format: "%e.%m.%Y"
 
+author:
+  twitter: JaaJanne
 
 kramdown:
   syntax_highlighter_opts:
@@ -16,6 +18,7 @@ kramdown:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
   - scope:
