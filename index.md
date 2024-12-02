@@ -11,13 +11,13 @@ Tämä filosofia on täydellinen työkalu nykypäivän johtajille, yrittäjille 
 
 ## Miksi valita stoalaisuus?
 * Tunne-elämän hallinta: Stoalaiset opettavat, että rauhallinen mieli syntyy ymmärryksestä, ei olosuhteista.
-* Resilienssi vastoinkäymisissä: Olipa kyse taloudellisesta paineesta, ihmissuhdeongelmista tai urahaasteista, stoalaisuus auttaa säilyttämään tasapainon.
+* Resilienssi vastoinkäymisissä: olipa kyse taloudellisesta paineesta, ihmissuhdeongelmista tai urahaasteista, stoalaisuus auttaa säilyttämään tasapainon.
 * Keskittyminen olennaiseen: Stoalaisuuden periaatteilla saat selkeyttä ja kyvyn keskittyä siihen, mikä on todella tärkeää.
 
 ## Stoalaisuuden 3 olennaista kulmakiveä:
-1. Hyveellinen elämä: Toimi oikein, riippumatta ulkoisista paineista.
-2. Tapahtumien hyväksyminen: Hyväksy, mitä et voi muuttaa, ja keskity omaan toimintaasi.
-3. Jatkuva itsekehitys: Opettele ottamaan vastuu itsestäsi ja kehitä henkistä vahvuuttasi.
+1. Hyveellinen elämä: toimi oikein, riippumatta ulkoisista paineista.
+2. Tapahtumien hyväksyminen: hyväksy, mitä et voi muuttaa, ja keskity omaan toimintaasi.
+3. Jatkuva itsekehitys: opettele ottamaan vastuu itsestäsi ja kehitä henkistä vahvuuttasi.
 
 ## Stoalaisuuden 4 perushyvettä:
 Stoalaisen filosofian mukaisesti elämässä tulisi keskittyä seuraaviin neljään perushyveeseen:
