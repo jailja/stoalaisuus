@@ -9,6 +9,7 @@ author:
 Stoalaisuudesta on kirjoitettu paljon mutta toisaalta yllättävän vähän. Ohessa on suosittelemiani resursseja, joiden avulla voit tutustua lisää stoalaisuuteen.
 
 ## Kirjat
+Suosittelen aloittamaan lukemisen näistä. Mielestäni parhain alkuperäisistä teoksista on Epictetuksen "käskirja" eli _Enchiridion_. Marcus Aureliuksen _Mediations_ voi olla aloittelijalle hieman tylsä ja raskassoutuinen. 
 * Epictetus: [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) ([ilmainen](http://www.ideonautics.net/manual2.htm))
 * Seneca: [Letters from a Stoic](https://www.goodreads.com/book/show/12748281-letters-from-a-stoic)
 * Marcus Aurelius: [Meditations](https://www.goodreads.com/book/show/30659.Meditations) ([ilmainen](https://lexundria.com/m_aur_med/0/lg))
