@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Antiikinaikaisia työkaluja modernin mielettömyyden hallintaan."
 ---
 
 # Stoalaisuus – käytännöllinen elämänfilosofia
