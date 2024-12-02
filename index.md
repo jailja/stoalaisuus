@@ -9,6 +9,10 @@ Tämä filosofia on täydellinen työkalu nykypäivän johtajille, yrittäjille 
 
 ![Stoalainen vaikutusten kehä](/assets/images/stoalainen-vaikutusten-keha.png){:style="display:block; margin-left:auto; margin-right:auto; width:500px;"}
 
+Stoalaisuuden avulla voit saavuttaa mielenrauhan, joka ei horju ulkoisten paineiden alla. Se ei lupaa nopeita voittoja, mutta tarjoaa ajattoman työkalupakin, jolla voit rakentaa kestävää onnea ja menestystä.
+
+Aloita matkasi [tästä](https://stoalaisuus.fi/mita-on-stoalaisuus.html). 
+
 ## Miksi valita stoalaisuus?
 * Tunne-elämän hallinta: Stoalaiset opettavat, että rauhallinen mieli syntyy ymmärryksestä, ei olosuhteista.
 * Resilienssi vastoinkäymisissä: olipa kyse taloudellisesta paineesta, ihmissuhdeongelmista tai urahaasteista, stoalaisuus auttaa säilyttämään tasapainon.
@@ -26,11 +30,6 @@ Stoalaisen filosofian mukaisesti elämässä tulisi keskittyä seuraaviin neljä
 3. *Itsehillintä:* eli kyky hallita omia haluja ja tunteita. Itsehillintä auttaa säilyttämään mielenrauhan ja tekemään järkeviä valintoja, vaikka tunteet yrittäisivät viedä mukanaan.
 4. 
 *Oikeudenmukaisuus:* eli kyky kohdella muita reilusti ja kunnioittavasti. Oikeudenmukaisuus korostaa yhteisöllisyyttä ja toisten auttamista, mikä on olennainen osa hyvää elämää.
-
-## Mitä voit saavuttaa?
-Stoalaisuuden avulla voit saavuttaa mielenrauhan, joka ei horju ulkoisten paineiden alla. Se ei lupaa nopeita voittoja, mutta tarjoaa ajattoman työkalupakin, jolla voit rakentaa kestävää onnea ja menestystä.
-
-Aloita matkasi [tästä](https://stoalaisuus.fi/mita-on-stoalaisuus.html). 
 
 <h2>Uusimmat blogikirjoitukset:</h2>
 <ul>
